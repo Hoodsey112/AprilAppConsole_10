@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\AprilApp_10\AprilApp_10\bin\Debug\AprilApp_10.exe.config
+C:\Users\Home\source\repos\AprilApp_10\AprilApp_10\bin\Debug\AprilApp_10.exe
+C:\Users\Home\source\repos\AprilApp_10\AprilApp_10\bin\Debug\AprilApp_10.pdb
+C:\Users\Home\source\repos\AprilApp_10\AprilApp_10\obj\Debug\AprilApp_10.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\AprilApp_10\AprilApp_10\obj\Debug\AprilApp_10.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\AprilApp_10\AprilApp_10\obj\Debug\AprilApp_10.exe
+C:\Users\Home\source\repos\AprilApp_10\AprilApp_10\obj\Debug\AprilApp_10.pdb
